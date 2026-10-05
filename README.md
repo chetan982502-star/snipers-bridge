@@ -21,3 +21,4 @@ Click "More info", then "Run anyway".
 ## Requirements
 Windows PC with MetaTrader 5 installed and logged in.
 Phones cannot use the Bridge (it runs on a PC).
+© 2026 Chetan H Jariwala. All rights reserved.
